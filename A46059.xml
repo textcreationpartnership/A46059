@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The immorality of the English pulpit as justly subjected to the notice of the English stage, as the immorality of the stage is to that of the pulpit. In a letter to Mr. Collier. Occasion'd by the third chapter of his book entitl'd, A short view of the immorality of the English stage, &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46059</idno><idno type="EEBO-CITATION">99827739</idno>
+  <idno type="VID">32162</idno>
+  <idno type="EEBO-PROQUEST">2240876715</idno>
+  
+            <idno type="STC">Wing I55A</idno>
+            <idno type="STC">ESTC R215984</idno>
+            <idno type="PROQUEST">99827739</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99827739e"/>
+            <note>(EEBO-TCP ; phase 2, no. A46059)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32162)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1851:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The immorality of the English pulpit as justly subjected to the notice of the English stage, as the immorality of the stage is to that of the pulpit. In a letter to Mr. Collier. Occasion'd by the third chapter of his book entitl'd, A short view of the immorality of the English stage, &amp;c.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year M DC XC VIII. [1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to Collier, Jeremy.  A short view of the immorality, and profaneness of the English stage.</note>
+                  <note>Reproduction of the original in the Lambeth Palace Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Collier, Jeremy, 1650-1726. --  Short view of the immorality and profaneness of the English stage --  Early works to 1800.</term>
+               <term type="topical_term">Theater --  Moral and ethical aspects --  Early works to 1800.</term>
+               <term type="topical_term">Church --  Holiness --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32162:1"/>
+            <pb facs="tcp:32162:1"/>
+            <p>THE IMMORALITY OF THE <hi>English Pulpit,</hi> AS Justly Subjected to the Notice of the <hi>ENGLISH STAGE,</hi> AS The Immorality of the STAGE is to that of the PULPIT.</p>
+            <p>
+               <hi>In a</hi> LETTER <hi>to Mr.</hi> Collier.</p>
+            <p>Occasion'd by the Third Chapter of his Book, Entitl'd, <hi>A Short View of the Immorality of the</hi> English Stage, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed in the Year MDCXCVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:32162:2"/>
+            <pb n="3" facs="tcp:32162:2"/>
+            <head>A Word to Mr. <hi>Collier,</hi> by way of EPISTLE, concerning his Short (sighted) View of <hi>the Immoralities of the</hi> English <hi>Stage,</hi> &amp;c.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>THAT the Licentiousness of the Stage should ask the Correction of your Pen, is a sad and manifold Confession of the De<g ref="char:EOLhyphen"/>generacy of the Times, and withal shews the pres<g ref="char:EOLhyphen"/>singness of the Occasion. What else could provoke a man to write against himself? For 'tis to your dear Times that we owe the vileness of the Theatre; Those very Loose Times, to the Protector whereof you are so constant a Devotee; so that in the Cause depending you are both Plaintiff and Defendant. And though you may chance to win the Saddle, yet you can't but lose the</hi> Horse <hi>and go within a hair's-breadth of making an</hi> Ass <hi>of your self.</hi>
+            </p>
+            <pb n="4" facs="tcp:32162:3"/>
+            <p>THAT a Parson (Cashier'd for Mis<g ref="char:EOLhyphen"/>behaviour) should devote his Idleness to the Reading of Plays is no strange Mat<g ref="char:EOLhyphen"/>ter; but that such an one should snarl over his beloved Diet, is remarkably Currish; however not at all beside his Character. But though he lets us understand he has still the same Faculties about him; yet he wisely in<g ref="char:EOLhyphen"/>forms us at the same time that he has alter'd his Object, and left off his fruitless Barking at the <hi>Moon above</hi> him, for the sake of a <hi>Cynthia,</hi> that may be brought <hi>under.</hi> And indeed he has wrestled notably with the bright Dame of the Stage; whom that he might enjoy more safely, he endeavours to strip naked of Ap<g ref="char:EOLhyphen"/>plause, and so preserve her from being Clapt by any one but himself. A notable piece of Christianity, and becoming the Piety and Policy of the Party! <hi>But the Stage is Cor<g ref="char:EOLhyphen"/>rupted, ill Humours are Predominant, and some<g ref="char:EOLhyphen"/>thing must be Administred to curb these Excesses.</hi> Very good; but must a Parson needs step out of the huge Throng of Quacks, clap on the Spectacles, and apply the Glister<g ref="char:EOLhyphen"/>pipe, purely to discover his Knowledge in <hi>Fundamentals?</hi> No, no, there is something more in it than all this comes to, or else the Stage might e'en have perish'd or prosper'd under its <hi>Immodesty, Prophaneness, Immorality,</hi> &amp;c.
+<pb n="5" facs="tcp:32162:3"/>for him: And a Thousand <hi>Sebastians, King Arthurs, Donquixots,</hi> and <hi>Relapses</hi> might have Club'd their Impudence to Hoot Virtue out of the World, had they but deported themselves as they should have done to a man in his Garb; then should they never have been confronted with, and brought to receive Sentence from the Ancient <hi>Pagans,</hi> the <hi>State,</hi> or the <hi>Church.</hi> Nor had all those <hi>Hydra</hi> Heads mention'd in his <hi>Contents</hi> ever been discover'd or brought to the Correction of his <hi>Chopping-knife.</hi>
+            </p>
+            <p>But they are rightly served, they must be peeping, forsooth, into the Pleats of the <hi>Gown,</hi> and presume to look Vermin upon Sacred <hi>Cloth;</hi> ay, and to search for Petticoats under the Cassock. Now, wou'd any Parson a<g ref="char:EOLhyphen"/>live, think ye, have patience to endure this Operation, and not rather have a Louse graze all its life upon his Gleab, than to undergo the pinch of having it knack'd, which causes more pains than a Twelvemonth's biting? But you'll say it is foolish on both sides to quarrel about a Match of Louse-hunting, espe<g ref="char:EOLhyphen"/>cially considering how fatal the Consequen<g ref="char:EOLhyphen"/>ces may be to both; for Mr. <hi>Ray</hi> has an old Proverb (but of daily use) that <hi>when some sort of folks fall out, a better sort may chance to bear of their own again.</hi> So that, in my opinion, they had better a draw'd back their stakes be<g ref="char:EOLhyphen"/>fore
+<pb n="6" facs="tcp:32162:4"/>it had come to this; for to have the Ar<g ref="char:EOLhyphen"/>tillery of the Church drawn out in Order of Battle, charged with Anathema's and Excom<g ref="char:EOLhyphen"/>munications; ramm'd down with the Papers of Ancient Writers, and Modern Rehear<g ref="char:EOLhyphen"/>sers; primed with combustible Ambition, and then fired with red hot Passion, must needs make a confounded Clatter against the Deal-boards of a Stage, and give the Alarm to the <hi>Honest World to shift for it self,</hi> and then those two topping Vocations would be worse than <hi>Silk-weaving.</hi>
+            </p>
+            <p>'Tis to be confess'd, the Stage is grown as Corrupt and Immoral, as the Pulpit can be for the Life on't; and I see no reason why Mr. <hi>Collier</hi> may not, if he pleases, return them a <hi>Rowland</hi> for their <hi>Oliver;</hi> I frankly agree, that most of his Charge against them is just, undeniable, and well seconded with Proofs. But I must beg his pardon, if it be an Affront to tell him, that his Hat hung in his Light when he wrote that <hi>Chapter,</hi> wherein he accu<g ref="char:EOLhyphen"/>ses the Stage as <hi>guilty of abusing the Clergy.</hi> For he has not been so kind as to shew one Instance wherein they are abused, but on the contrary, has cited several Historical Passages, Translated by the Poets indeed into Verse, but taken Originally from the Works of his own Party, as may too easily be made ap<g ref="char:EOLhyphen"/>pear;
+<pb n="7" facs="tcp:32162:4"/>nay, I durst engage my self to accom<g ref="char:EOLhyphen"/>modate every accused Passage with a warran<g ref="char:EOLhyphen"/>table Text. Now, certainly if the Stage has any business in the World, it is to ridicule Vice with all the Powers of Wit, to expose the chief Patrons of it; to lay open the Hypocrite to the common View of the World, and to dawb his outside of the same Colour as within. It is the Office of the Stage to detect the <hi>Roguery,</hi> as well as the <hi>Folly</hi> of a <hi>Knave;</hi> and if such a one creeps into the Pulpit, 'tis their Concern to cry <hi>Ware shins</hi> to the gaping Auditory, lest whilst he is drawing their Eyes towards the Pulpit-Roof, he should let them unawares through a Trap-door into Hell. A wicked Parson is the most potent Villain upon Earth; he not only abuses a <hi>Man,</hi> but a <hi>World,</hi> and endeavours to put the Cheat upon God him<g ref="char:EOLhyphen"/>self. Whilst he chews the Gospel in his Mouth, he infects it, and makes a deadly Poyson of the <hi>Bread of Life,</hi> which he spits out upon the Con<g ref="char:EOLhyphen"/>gregation, because it agrees not with his own Palate. And yet Roguery of this fatal kind is not extensive nor general enough, in Mr. <hi>Collier</hi>'s opinion, to be taken notice of by the Stage. But I wou'd fain know what an Universal Rogue is, if this ben't his Character? A <hi>Lay</hi>-Rascal has no such Capacity, he contents him<g ref="char:EOLhyphen"/>self with some peculiar in the <hi>Practick,</hi> as the
+<pb n="8" facs="tcp:32162:5"/>Cutting a Purse, the Tricking a Client, the Killing a Patient, or, to go one degree further, the Buying at a great Rate a Copy of some Master in the Faculty, whereby the Author is encouraged to prosecute his Studies, and the Bookseller obliged for Interest sake to make him as many Proselytes as he can. This is indeed the perfection of Mechanick Roguery, and Knave and Fool well mixt. But, alas! these know nothing of the Theory, are not acquainted with the Sublimities of Vice, have not that advantageous View of the whole Sy<g ref="char:EOLhyphen"/>stem, as those from the Pulpit have. And is the Stage blameable for making it their Business (upon all occasions) to unriddle the Mystery of Iniquity, and to Counter-plot them? Or is it more Criminal in the Stage to <hi>Act</hi> that in a <hi>Play</hi> which they <hi>do</hi> in <hi>Earnest?</hi> Or why should not that <hi>Parson</hi> make up a Character in a Co<g ref="char:EOLhyphen"/>medy, and be personated by a <hi>Player,</hi> who personates a <hi>Player</hi> in the <hi>Pulpit,</hi> and inter<g ref="char:EOLhyphen"/>lopes upon the Stage, by turning the <hi>Church</hi> into a <hi>Play-house?</hi> Certainly it is but just Reta<g ref="char:EOLhyphen"/>liation; and that Parson (tho' it were Mr. <hi>Col<g ref="char:EOLhyphen"/>lier</hi>) who appropriates the Lashes of the Stage to himself, or is offended at the Stage in this particular, is either an Abetter or a Partaker of the Vices of the Clergy, and so most just<g ref="char:EOLhyphen"/>ly subjected to the Notice of the <hi>English Stage.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
